@@ -6,7 +6,7 @@ const Delivery = () => {
       <h3 className="text-orange-500 font-bold text-2xl text-center">
         Quick Delivery App
       </h3>
-      <div className="w-[1240] mx-auto grid md:grid-cols-2">
+      <div className="w-[1520] mx-auto grid md:grid-cols-2">
         <img
           className=" mx-auto my-4"
           src="https://th.bing.com/th/id/OIP.mvQ55jKEJXs_roP06oZA_gHaE7?pid=ImgDet&rs=1"
