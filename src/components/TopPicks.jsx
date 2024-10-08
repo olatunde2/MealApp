@@ -1,5 +1,5 @@
 import React from "react";
-import { topPicks } from '..data/data.js';
+import { topPicks } from '../Data/data.js';
 ;
 import { Splide, SplideSlide } from "@splidejs/react-splide";
 import "@splidejs/react-splide/css/core"; // Import only core styles
