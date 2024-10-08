@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { ArrowSmRightIcon } from "@heroicons/react/outline";
-import { mealData } from "../data/data";
+import { mealData } from "../data/data.js";
 
 const Meal = () => {
   const [foods, setFoods] = useState(mealData);
